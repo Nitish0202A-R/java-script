@@ -5,13 +5,13 @@ console.log (a);
  console.log (a);
 
  var a="nitish"
- var b="23"
+ let b="23"
  let c="black"
  var d="bca"
  {
-       let c="you"
+       let b="you"
        
-       console.log('inner',c);
+       console.log('inner',b);
  }
 
-  console.log ('outer',c);
+  console.log ('outer',b);
