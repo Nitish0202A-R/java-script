@@ -42,3 +42,17 @@ if (marks >= 90) {
 } else {
   console.log("fail");
 }
+let num=12
+if(num%2==0&&num%3==0){
+  console.log("div by 2 and 3")
+}
+else{
+  console.log("div by not 2 aur 3")
+}
+// let num =12
+// if (num%2==0||num%3==0){
+//   console.log("div by 2 or 3 ")
+// }
+// else{
+//   console.log("div by not 2 or 3")
+// }
