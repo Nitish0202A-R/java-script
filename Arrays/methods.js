@@ -18,3 +18,5 @@ let r=num.unshift(10) // add new element to first index use by unshift
 console.log(num,r) // num is array after unshift and r is new lenght of array
 delete num[3] // delete use to delete any index value but lenght is same
 console.log(num) // num is array after delete
+
+
