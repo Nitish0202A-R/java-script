@@ -1,6 +1,6 @@
-let num = Math.floor(Math.random() * 100) + 1;
+let num = Math.floor(Math.random() * 100) + 1
 
-const prompt = require("prompt-sync")();
+const prompt = require("prompt-sync")()
 
 while (true) {
     userGuess = Number(prompt("Enter your guess between 1 to 100: "))
