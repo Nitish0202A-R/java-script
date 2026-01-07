@@ -14,9 +14,9 @@
 // let B = 5;
 // let C = 6;
 
-// console.log("averger number aur print A and B =", averger(A, B));
-// console.log("averger number aur print B and C =", averger(B, C));
-// console.log("averger number aur print C and A =", averger(C, A));
+// console.log("averger number aur print A and B =", averger(A, B))
+// console.log("averger number aur print B and C =", averger(B, C))
+// console.log("averger number aur print C and A =", averger(C, A))
 
 
 // function sum(a, b) {
