@@ -8,7 +8,6 @@ let num=[25,26,27,28,29]
 //     console.log(Element+Element) // Agar tum element * element print karte ho, to har number ka square print hoga
 // })
 
-// araya from loop 
 let name="nitish"
 let arr = Array.from(name)
 console.log(arr);
