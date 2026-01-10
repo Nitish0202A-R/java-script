@@ -15,7 +15,7 @@ console.log(arr);
 
 // for of loop
 for(let i of num){ 
-    console.log(i)  // num number short number
+    console.log(i)  
 }
 
 
