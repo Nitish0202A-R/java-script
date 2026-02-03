@@ -18,11 +18,18 @@ let marks=[60,70,80,90,95, null,"not parent"]
 
 // console.log(marks.length)
 
-for(let i=0;i<marks.length;i++){  // for loop sa print all array value 
-    console.log(marks[i])
-}
+// for(let i=0;i<marks.length;i++){  // for loop sa print all array value 
+//     console.log(marks[i])
+// }
 
-let name=['nitish','abhishek','rahul','rohan']  //for of loop array value print
-for(Let  of name){
-    console.log()
-}
+// let name=['nitish','abhishek','rahul','rohan']  //for of loop array value print
+// for(Let  of name){
+//     console.log()
+// }
+
+
+let furit =["mango","banana","apply"]
+furit[1]="orange"
+// console.log(furit[0])
+// console.log(furit[2])
+console.log(furit)
