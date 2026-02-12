@@ -1,15 +1,12 @@
- // array map methor
- 
- 
- let naam=[15,18,16,13]
-let a= naam.map((Element,index,array)=>{  // new array banata hai // is ma hum element,index,array va use kra ha aur singl v use kar sakta ha 
-    console.log(Element,index,array)
-    return Element+1 // har element me 1 add karke naya array bana raha hai
+// array map methor
 
-})
-console.log(a)
+//  let naam=[15,18,16,13]
+// let a= naam.map((Element,index,array)=>{  // new array banata hai // is ma hum element,index,array va use kra ha aur singl v use kar sakta ha
+//     console.log(Element,index,array)
+//     return Element+1 // har element me 1 add karke naya array bana raha hai
 
-
+// })
+// console.log(a)
 
 //Q1. map() kya return karta hai?
 
@@ -36,3 +33,21 @@ console.log(a)
 // Ans-array.map((element, index, array) => {
 //     return value;
 // });
+
+// const arr = [1, 2, 3, 4, 5];
+
+// const newArr =  arr.map((num)=>{
+//    return num + 5;
+//  })
+
+//  console.log(newArr);
+
+let names = ["Ram", "Shyam", "Mohan"];
+
+
+
+ const newArr =  names.map((name)=>{
+return name.toUpperCase();
+})
+
+console.log(newArr);

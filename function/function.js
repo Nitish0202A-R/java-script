@@ -1,82 +1,87 @@
-// // let A=2
-// // let B=5
-// // let C=6
-// // console.log("sum number aur print A and B=",A+B)
-// // console.log("sum number aur print B and C=",B+C)
-// // console.log ("sum number aur print C and A=",C+A)
-
-// // function averger(A, B) {
-// //     console.log("done")
-// //     return (A + B) / 2;
-// // }
-
-// // let A = 2;
-// // let B = 5;
-// // let C = 6;
-
-// // console.log("averger number aur print A and B =", averger(A, B))
-// // console.log("averger number aur print B and C =", averger(B, C))
-// // console.log("averger number aur print C and A =", averger(C, A))
-
-// // function sum(a, b) {
-// //   return a + b;
-// // }
-
-// // console.log(sum(5,5));
-// // console.log(sum(10,5));
-
-// function averger(A, B) {
-//     return Math.round(1+ (A + B) / 2)
+// function name() {
+//   console.log("hello");
 // }
-
-// let A = 1;
-// let B = 2;
-// let C = 3;
-
-// console.log("averger number aur print A and B =", averger(A, B));
-// console.log("averger number aur print B and C =", averger(B, C));
-// console.log("averger number aur print C and A =", averger(C, A));
-
-// function hello (){
-//     console.log("object");
-// }
-
-// hello();
-
-// function greetUser(name) {
-//   console.log("Hello " + name);
-// }
-
-// greetUser("world");
-// greetUser("Rahul");
-
-// greetUser("nitish");
-
-// function add(a, b) {
-//  return a + b;
-// }
-
-// let result = add(5, 3);
-// console.log(result);
-
-// ARROW FUNCTION =
-
-// const Add = (a, b) => {
-//   return a + b;
-// };
-
-// console.log(Add(2, 5));
-
-// function name(){
-//     console.log("kumar")
-// }
-
 
 // name();
 
-function squroot(a){
-    return Math.sqrt(a)
-}
+// let x = 5;
+// let y = 9;
 
-let result = squroot(16)
-console.log(result)
+// function add(a, b) {
+//   return a + b;
+// }
+
+// const result = add(x, y);
+// console.log(result);
+
+// Q=> Function banao jo naam input le aur Hello + naam print kare
+
+// function print(n){
+//   return "Hello " + n;
+// }
+
+// const result = print("abhi")
+// console.log(result);
+
+// // Hello naam
+
+// Q => 2 numbers add karne ka function banao
+
+// function num(a,b){
+//     return a+b;
+// }
+//  const result = num(5 , 6)
+//  console.log(result)
+
+// Q => Number ka square return karo
+
+// function sq(a){
+//     return a*a
+// }
+// const name=sq(3)
+// console.log(name)
+
+// Q => Number even hai ya odd — function check kare
+
+// function name(a){
+//     if(a%2===0){
+//       return  "even"
+//     }
+//     else{
+//     return "odd" 
+//     }
+// }
+  
+// const na=name(7);
+// console.log(na)
+
+// Q=>Number even hai ya odd — function check kare
+
+// function big(a,b,c){
+//     if(a>b&&a>c){
+//         return "a big number"
+//     }
+//     if(b>a&&b>c){
+//         return "b big number"
+//     }
+//     else{
+//         return "c big number"
+//     }
+// }
+
+// const num=big(6,5,3)
+// console.log(num)
+
+
+
+// Q => String ki length return karo
+
+// function len(a){
+//   return a.length
+// }
+// const na = len("nitish")
+// console.log(na)
+
+
+
+
