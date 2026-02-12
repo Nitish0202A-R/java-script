@@ -67,9 +67,16 @@
 
 // console.log(Add(2, 5));
 
-function name(){
-    console.log("kumar")
+// function name(){
+//     console.log("kumar")
+// }
+
+
+// name();
+
+function squroot(a){
+    return Math.sqrt(a)
 }
 
-
-name();
+let result = squroot(16)
+console.log(result)
