@@ -86,7 +86,17 @@
 
 // Q6
 
-const name=" hello "
-console.log(name)
+// const name=" hello "
+// console.log(name)
+
+
+
+
+// Q11. User ka name "rohit" ho → first letter capital karo
+
+const name="rohit"
+const na = name[0].toUpperCase() + name.slice(1);
+
+console.log(na)
 
 
