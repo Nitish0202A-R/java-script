@@ -94,9 +94,15 @@
 
 // Q11. User ka name "rohit" ho → first letter capital karo
 
-const name="rohit"
-const na = name[0].toUpperCase() + name.slice(1);
+// const name="rohit"
+// const na = name[0].toUpperCase() + name.slice(1);
 
-console.log(na)
+// console.log(na)
+
+// Q8. "Hello" + "Nitish" jod ke print karo
 
 
+const name="Hello"
+const nam="Nitish"
+
+console.log(name + " " + nam)
