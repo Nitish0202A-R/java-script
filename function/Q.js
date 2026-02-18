@@ -32,3 +32,22 @@ while (i != cn) {
 }
 
 console.log("You have entered the correct number");
+
+
+
+
+// function na(a, b){
+//    console.log(a) 
+// }
+//  na("hello");
+ 
+
+// function na(a,b){
+//     return a+b
+// }
+// const name = na(5,6)
+// console.log(name)
+
+// function name =(num){
+//     re
+// }
