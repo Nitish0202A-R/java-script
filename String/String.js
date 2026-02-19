@@ -102,7 +102,16 @@
 // Q8. "Hello" + "Nitish" jod ke print karo
 
 
-const name="Hello"
-const nam="Nitish"
+// const name="Hello"
+// const nam="Nitish"
 
-console.log(name + " " + nam)
+// console.log(name + " " + nam)
+
+
+
+
+function name(a,b){
+return a+b
+}
+ 
+console.log(name(5,6))
