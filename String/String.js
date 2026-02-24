@@ -108,10 +108,3 @@
 // console.log(name + " " + nam)
 
 
-
-
-function name(a,b){
-return a+b
-}
- 
-console.log(name(5,6))
