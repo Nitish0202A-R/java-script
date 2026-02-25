@@ -98,7 +98,16 @@
 
 
 
- function add(a,b){
-    console.log(a+b)
- }
- add(4,6);
+//  function add(a,b){
+//     console.log(a+b)
+//  }
+//  add(4,6);
+
+
+
+
+// arrow fuctuion
+const add=(a,b)=> a+b
+console.log(add(5,6))
+
+
