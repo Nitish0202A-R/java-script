@@ -168,9 +168,24 @@
 // 👉 sirf 10 se bade numbers lo
 
 
-const num=[15,30,4,9,100]
-const ans=num.filter((number)=>{
-    return number>10
-})
+// const num=[15,30,4,9,100]
+// const ans=num.filter((number)=>{
+//     return number>10
+// })
 
+// console.log(ans)
+
+
+
+// Q [1,2,'kumar','null','love']   sting print  kra ha 
+
+const st=[1,2,'kumar','null','love']
+const ans = st.filter((value)=>{
+    if(typeof( value) === "number" ) {
+        return true;
+    }
+    else{
+        return false;
+    }
+})
 console.log(ans)
